@@ -1,0 +1,6 @@
+C:\Users\madoa\AppData\Local\Temporary Projects\Get_Prime_into_range\bin\Debug\Get_Prime_into_range.exe
+C:\Users\madoa\AppData\Local\Temporary Projects\Get_Prime_into_range\bin\Debug\Get_Prime_into_range.pdb
+C:\Users\madoa\AppData\Local\Temporary Projects\Get_Prime_into_range\obj\x86\Debug\Get_Prime_into_range.exe
+C:\Users\madoa\AppData\Local\Temporary Projects\Get_Prime_into_range\obj\x86\Debug\Get_Prime_into_range.pdb
+C:\Users\madoa\OneDrive\Desktop\Get_Prime_into_range\Get_Prime_into_range\obj\x86\Debug\Get_Prime_into_range.exe
+C:\Users\madoa\OneDrive\Desktop\Get_Prime_into_range\Get_Prime_into_range\obj\x86\Debug\Get_Prime_into_range.pdb

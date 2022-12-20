@@ -20,7 +20,7 @@ class Program {
                 }
             }
             if (w == 1) {
-                Console.WriteLine("'{0}' => {1}",w,i);
+                Console.WriteLine("{0} is prime",i);
             }
         }
         Console.ReadLine();
